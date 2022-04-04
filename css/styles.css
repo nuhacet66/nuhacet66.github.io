@@ -11547,6 +11547,7 @@ body {
   line-height: 2.5rem;
   letter-spacing: 0.8rem;
   background-color: white;
+  color: white;
   -webkit-background-clip: text;
           background-clip: text;
 }
